@@ -3,5 +3,4 @@ db.sqlite3
 env/
 *.log
 db.sqlite3
-
 __pycache__/
