@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'shop', #new app
     'rest_framework', #new
     'corsheaders', #new
+    'rest_framework.authtoken',  #new
 ]
 
 MIDDLEWARE = [
